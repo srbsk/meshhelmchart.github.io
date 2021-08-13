@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mesh:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-13T10:29:19.2187441+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a07fa709937d490292b14de27159d90ecb4dbff9161d2061058a33bd25306eb3
+    name: mesh
+    type: application
+    urls:
+    - mesh-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-13T10:29:19.2147448+05:30"
